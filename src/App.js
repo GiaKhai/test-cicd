@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <div>gia_khai</div>
+        <div>Hom nay toi demo cicd</div>
       </header>
     </div>
   );
